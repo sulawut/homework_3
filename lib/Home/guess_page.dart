@@ -14,7 +14,7 @@ class _GuessPageState extends State<MyHomePage> {
 
   Widget _buildNumberButton(int num) {
     return Padding(
-      padding: const EdgeInsets.all(7.0),
+      padding: const EdgeInsets.all(6.0),
       child: InkWell(
         onTap: () {},
         child: Container(
